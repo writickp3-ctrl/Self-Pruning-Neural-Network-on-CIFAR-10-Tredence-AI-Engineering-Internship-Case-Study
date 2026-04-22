@@ -1,0 +1,1 @@
+# Self-Pruning-Neural-Network-on-CIFAR-10-Tredence-AI-Engineering-Internship-Case-Study
